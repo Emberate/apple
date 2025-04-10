@@ -5,7 +5,7 @@ const App = () => {
   const products = [
     {
       id: 1,
-      name: "iPhone 14 Pro",
+      name: "iPhone 13 Pro",
       tagline: "Pro. Beyond.",
       links: ["Learn more", "Buy"],
       imageUrl: "https://www.apple.com/v/iphone-14-pro/c/images/overview/hero/hero_endframe__dtzvajyextyu_large.jpg",
@@ -23,7 +23,7 @@ const App = () => {
     },
     {
       id: 3,
-      name: "iPad",
+      name: "iPad", 
       tagline: "Lovable. Drawable. Magical.",
       links: ["Learn more", "Buy"],
       imageUrl: "https://www.apple.com/v/ipad/home/bo/images/overview/hero/ipad__bsnuh0fqeveq_large.jpg",
